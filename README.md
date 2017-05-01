@@ -21,7 +21,25 @@ The methodology can be used for context beyond Chinese, those audio data and cor
 
 How CDAB?
 
+Check what audio scripture is already available in your mother tongue, if not start a website, whatsapp or wechat group, started reading and recording, publish and know others that you are doing?
+People record and read the scriptures with their dialects in their mother tongue using smart phone, computer, audio recorder and upload through Weixin/Wechat, whatsapp. Then compile the data and upload here, other git hub repository or somewhere else e.g. distantmedia, kalaam media or other.
+The link of the data should be share in Gospel Resources Hub or other resources network and coordinate for the best use of resorces without duplicating the effort.
+
+
 Who can participate?
+Volnteeers
+
+
+How you can help?
+1. Help me to translate this page into Chinese
+
+2. Help me to share this vision and comment on these ideas and develop the process togehter. You can also suggest and help us to find out the need of different audio Bible projects. 
+
+3. Let us know what Chinese dialect audio Bible is already avialbe and/or to communicate with the Gospel Resouces Hub
+http://www.surehope.net/mindex/
+
+4. Start a whatsapp or wechat or website reading projects, and let other know and share in the Gospel Resource Hub.
+
 
 Plan and question and brainstorming:
 
@@ -29,3 +47,4 @@ Plan and question and brainstorming:
 2. How can we get the audio files?
 3. What portion of the Bible suggest to start?
 4. What Chinese version are available for volunteer to read?
+
