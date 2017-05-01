@@ -1,12 +1,12 @@
-# CDAB
-Chinese Dialect Audio Bible Repository through crowd sourcing 
+# ABCD
+Audio Bible of Chinese Dialect(used to Be Chinese Dialects for Audio Bible Repository) through crowd sourcing 
 
-What is CDAB?
+What is ABCD(CDAB)?
 
-I am proposing Chinese Dialect Audio Bible Repository.
+I am proposing Audio Bible for Chinese DialectRepository.
 
 
-Why CDAB?
+Why ABCD?
 
 Chinese Bible was printed in Traditional and Simplified character, but it can be read with Putonghua/Mandarin or different dialects, e.g. Cantonese, Taiwanese with different degree of understanding.
 There are people do not have the priviledge to learn to read and write standardize Chinese, but there are many are not able to read but they can or they prefer to listen to the Bible in their heart language -- mother tongue.
@@ -19,7 +19,7 @@ This is a good way to engage, promote scriptural engagement and the awareness of
 
 The methodology can be used for context beyond Chinese, those audio data and corpus can help with future linguistic and especially socio-linguistic research. There can be other academic domain may find those data helpful.
 
-How CDAB?
+How ABCD?
 
 Check what audio scripture is already available in your mother tongue, if not start a website, whatsapp or wechat group, started reading and recording, publish and know others that you are doing?
 People record and read the scriptures with their dialects in their mother tongue using smart phone, computer, audio recorder and upload through Weixin/Wechat, whatsapp. Then compile the data and upload here, other git hub repository or somewhere else e.g. distantmedia, kalaam media or other.
