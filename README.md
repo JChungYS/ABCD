@@ -3,6 +3,9 @@ Audio Bible of Chinese Dialect(used to Be Chinese Dialects for Audio Bible Repos
 
 What is ABCD(CDAB)?
 
+When we sing, we start with Do Re Mi. When we read, we start with ABC. When we work with Chinese dialects users for listening the Bible in Chinese dialect, we start with ABCD.
+
+
 I am proposing Audio Bible for Chinese DialectRepository.
 
 
