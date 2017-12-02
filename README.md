@@ -39,7 +39,8 @@ How you can help?
 2. Help me to share this vision and comment on these ideas and develop the process togehter. You can also suggest and help us to find out the need of different audio Bible projects. 
 
 3. Let us know what Chinese dialect audio Bible is already avialbe and/or to communicate with the Gospel Resouces Hub
-http://www.surehope.net/mindex/
+
+https://indigitous.org/resources/media/?q=&language=cmn
 
 4. Start a whatsapp or wechat or website reading projects, and let other know and share in the Gospel Resource Hub.
 
