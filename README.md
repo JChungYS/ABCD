@@ -1,6 +1,16 @@
 # ABCD
 Audio Bible of Chinese Dialect(used to Be Chinese Dialects for Audio Bible Repository) through crowd sourcing 
 
+Website of Audio Bible of Chinese Dialects/Diaspora
+
+https://www.abcdcenter.com/chinese-dialects-diaspora
+
+I coauthor the book: "Engaging Chinese Diapora for the ministry of Bible Translation."
+
+https://www.amazon.com/Engaging-Chinese-Diaspora-Ministry-Translation/dp/1949201031/ref=sr_1_2?qid=1569882913&refinements=p_27%3AJeremiah+Chung&s=books&sr=1-2&text=Jeremiah+Chung&fbclid=IwAR2FgNnnZkJ_zGL7NvOhZU0swVYcMoShuk5tbCf84yqToJwXgHGsE1QN8p8
+
+
+
 What is ABCD(CDAB)?
 
 When we sing, we start with Do Re Mi. When we read, we start with ABC. When we work with Chinese dialects users for listening the Bible in Chinese dialect, we start with ABCD.
